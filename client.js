@@ -436,8 +436,8 @@ window.__ModuleLoader__.load({
             title: busy
               ? '正在请求 opencode.ai…'
               : updatedAt !== null
-                ? `立即刷新（请求 opencode.ai） · 上次更新 ${clock(updatedAt)}`
-                : '立即刷新（请求 opencode.ai）',
+                ? `立即刷新 · 更新于 ${clock(updatedAt)} · 与官网可能差 1%`
+                : '立即刷新 · 与官网可能差 1%',
             'aria-label': '刷新额度',
             onClick: (event) => {
               event.stopPropagation()
