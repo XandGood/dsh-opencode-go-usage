@@ -1,0 +1,4 @@
+# dsh-opencode-go-usage bundle patch: mount the plugin under its package name.
+- insert:
+    - id: opencode-go-usage
+      name: dsh-opencode-go-usage

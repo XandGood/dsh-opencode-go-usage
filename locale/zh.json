@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "OpenCode Go 额度",
+    "description": "在输入框下方常驻显示 OpenCode Go 账号的滚动 5 小时 / 本周 / 本月额度；用 Harness 中已配置的 key 查询，key 不进入浏览器。"
+  }
+}

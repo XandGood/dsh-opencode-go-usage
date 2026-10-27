@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "OpenCode Go Usage",
+    "description": "Shows the OpenCode Go rolling 5h / weekly / monthly quota under the composer, queried with the key already configured in the Harness (the key never reaches the browser)."
+  }
+}
